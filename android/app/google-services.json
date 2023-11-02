@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444727446094",
+    "project_id": "rn-connected-cea47",
+    "storage_bucket": "rn-connected-cea47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444727446094:android:f77340b075d74354d2111f",
+        "android_client_info": {
+          "package_name": "com.example.rn_connected"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOObm6ir2Qu7hEZYiKzRq25n_NRvJx2mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
