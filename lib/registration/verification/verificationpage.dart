@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rn_connected/dashboard/home_page.dart';
+import 'package:rn_connected/dashboard/dashboard.dart';
 import 'numeric_keyboard.dart';
 
 class VerificationPage extends StatefulWidget {
@@ -30,7 +30,7 @@ class _VerificationPageState extends State<VerificationPage> {
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (context) => HomePage(),
+                builder: (context) => DashboardPage(),
               ),
             );
           } else {
