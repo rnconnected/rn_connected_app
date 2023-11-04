@@ -6,9 +6,8 @@ class TopNavBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.only(bottom: 0), // Add margin to increase height
+      margin: EdgeInsets.only(bottom: 20), // Add margin to increase height
       padding: EdgeInsets.symmetric(horizontal: 15.0),
-      height: kToolbarHeight + 100.0, // Increase the height
       color: Colors.white,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
